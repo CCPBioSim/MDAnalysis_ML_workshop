@@ -1,6 +1,6 @@
-# Workshop for MDAnalysis/ML Edinburgh 2022
+# MDAnalysis and machine learning for molecular simulation - 2022 CCP5 Summer School, Durham 
 
-This repository contains all the materials for the 2022 MDAnalysis/ML workshop taking place at the University of Edinburgh on June 9-10 2022.
+This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials on July 26-27.
 
 ## Instructors
 Matteo Degiacomi   
@@ -13,7 +13,12 @@ Room: TBC
 
 
 ## Schedule
-TBC
+26th PM: Introduction to the MDAnalysis package (Micaela Matta)
+26th PM: MDAnalysis: advanced topics (Micaela Matta)
+27th AM: Data clustering (Antonia Mey and Matteo Degiacomi)
+27th AM: Dimensionality reduction, part 1 (Antonia Mey and Matteo Degiacomi)
+27th PM: Dimensionality reduction, part 2 (Matteo Degiacomi)
+27th PM: Data classification (Matteo Degiacomi)
 
 ## Setting up your python environment *before the workshop*
 
