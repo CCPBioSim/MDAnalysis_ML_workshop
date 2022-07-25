@@ -13,12 +13,14 @@ Room: TBC
 
 
 ## Schedule
-26th PM: Introduction to the MDAnalysis package (Micaela Matta)
-26th PM: MDAnalysis: advanced topics (Micaela Matta)
-27th AM: Data clustering (Antonia Mey and Matteo Degiacomi)
-27th AM: Dimensionality reduction, part 1 (Antonia Mey and Matteo Degiacomi)
-27th PM: Dimensionality reduction, part 2 (Matteo Degiacomi)
-27th PM: Data classification (Matteo Degiacomi)
+|  Day 1    | Session                 | Materials |
+|-----------|-------------------------|-----------|
+|26th PM    | Introduction to the MDAnalysis package (Micaela Matta)| [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_01_System_Manipulation.ipynb) |
+|26th PM    | MDAnalysis: advanced topics (Micaela Matta)| |
+|27th AM    | Data clustering (Antonia Mey)
+|27th AM| Dimensionality reduction, part 1 (Antonia Mey)
+|27th PM| Dimensionality reduction, part 2 (Matteo Degiacomi)
+|27th PM| Data classification (Matteo Degiacomi)| |
 
 ## Setting up your python environment *before the workshop*
 
