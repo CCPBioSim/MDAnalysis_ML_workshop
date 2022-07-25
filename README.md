@@ -1,6 +1,6 @@
 # MDAnalysis and machine learning for molecular simulation - 2022 CCP5 Summer School, Durham 
 
-This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials on July 26-27.
+This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2022.ccp5.ac.uk/#projects_timetable) taking place on July 26-27th at Durham University.
 
 ## Instructors
 Matteo Degiacomi   
@@ -9,7 +9,12 @@ Antonia Mey
 
 ## Location
 Durham University    
-Room: TBC
+Room: W414
+
+W414 is on the fourth floor of the Geography ("West") building. Enter at
+the northeast corner of the building at 54.767675, -1.573041. We've
+been asked not to use the "staff" toilets near W414, but rather to use
+the facilities on the ground floor. I shall be putting up some signage.
 
 
 ## Schedule
@@ -22,7 +27,7 @@ Room: TBC
 |27th PM| Dimensionality reduction, part 2 (Matteo Degiacomi) |[![Dimensionality reduction 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_DR_02.ipynb)|
 |27th PM| Data classification (Matteo Degiacomi)|[![Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_RF_03.ipynb) |
 
-## Setting up your python environment *before the workshop*
+## Setting up your Python environment *before the workshop*
 
 <!--The workshop will be in a blended learning environment and hands-on. You will need a working installation of MDAnalysis and related packages including data to analyze in order to participate. The full installation may take up to about 1 GB of space (mostly for data, which you can delete after the workshop).--> 
 
@@ -46,6 +51,15 @@ The course assumes that attendees have a working knowledge of [Jupyter notebooks
 
 <!--TBA-->
 The MDAnalysis logo and its derivatives are licensed under the Creative Commons Attribution-NoDerivs 3.0 Unported License.
+
+The MDAnalysis material is licences under CC-BY 4.0 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
+
+The ML material is licenced under CC-BY-SA 4.0. 
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="width=50" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
+
+See [here](https://creativecommons.org/about/cclicenses/) for the details of the licence
 
 
 ## Acknowledgements
