@@ -1,4 +1,4 @@
-# MDAnalysis and machine learning for molecular simulation - 2022 CCP5 Summer School, Durham 
+# From biomolecular data to information - 2022 CCP5 Summer School, Durham 
 
 This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2022.ccp5.ac.uk/#projects_timetable) taking place on July 26-27th at Durham University.
 
