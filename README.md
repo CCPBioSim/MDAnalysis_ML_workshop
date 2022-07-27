@@ -22,10 +22,10 @@ the facilities on the ground floor. I shall be putting up some signage.
 |-----------|-------------------------|-----------|
 |26th PM    | Introduction to the MDAnalysis package (Micaela Matta)| [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_01_System_Manipulation.ipynb) |
 |26th PM    | MDAnalysis: advanced topics (Micaela Matta)| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_02_Distances_Trajectories.ipynb) |
-|27th AM    | Data clustering (Antonia Mey) |[![Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_clustering_01.ipynb)|
-|27th AM| Dimensionality reduction, part 1 (Antonia Mey) |[![Dimensionality reduction 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_DR_02.ipynb)| 
-|27th PM| Dimensionality reduction, part 2 (Matteo Degiacomi) |[![Dimensionality reduction 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_DR_02.ipynb)|
-|27th PM| Data classification (Matteo Degiacomi)|[![Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/ML_RF_03.ipynb) |
+|27th AM    | Data clustering (Antonia Mey) |[![Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/3_clustering.ipynb)|
+|27th AM| Dimensionality reduction, part 1 (Antonia Mey) |[![Dimensionality reduction 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/1_DR_part1.ipynb)| 
+|27th PM| Dimensionality reduction, part 2 (Matteo Degiacomi) |[![Dimensionality reduction 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/1_DR_part2.ipynb)|
+|27th PM| Data classification (Matteo Degiacomi)|[![Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/4_classification.ipynb) |
 
 ## Setting up your Python environment *before the workshop*
 
